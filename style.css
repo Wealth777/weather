@@ -12,11 +12,14 @@ body {
 }
 
 button{
-    width: 50px;
+    width: 100px;
     background-color: red;
+    padding-letf: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-buttom: 20px;
 }
 
 button:hover{
-    background-color: green;
-    
+    background-color: green; 
 }
