@@ -14,12 +14,15 @@ body {
 button{
     width: 100px;
     background-color: red;
-    padding-letf: 20px;
-    padding-right: 20px;
     padding-top: 10px;
-    padding-buttom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
 }
 
 button:hover{
-    background-color: green; 
+    background-color: green;
+    color: black;
 }
