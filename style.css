@@ -16,8 +16,8 @@ button{
     background-color: red;
     padding-letf: 20px;
     padding-right: 20px;
-    padding-top: 20px;
-    padding-buttom: 20px;
+    padding-top: 10px;
+    padding-buttom: 30px;
 }
 
 button:hover{
